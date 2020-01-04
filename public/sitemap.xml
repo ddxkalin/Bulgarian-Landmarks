@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/index.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/all-sightseeings.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/contact.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/belogradchik-rocks.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/seven-lakes.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/krushuna-waterfalls.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/uslovia-za-polzvane.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/prohodna-cave.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bulgariansightseeings.herokuapp.com/bolata-bay.html</loc>
+  <lastmod>2020-01-20T12:16:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
